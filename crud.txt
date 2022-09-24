@@ -1,0 +1,15 @@
+Basic Dependencies
+1. Spring web
+2. Spring Data JPA
+3. Posgres driver
+4. Lombok
+
+Basic application properties
+. database cnofiguration
+. sever port
+
+basic package structure
+model
+controller
+service
+repository
